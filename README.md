@@ -15,12 +15,7 @@
   <a href="https://github.com/Ferdousyrhea" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wireshark/wireshark-original.svg" title="Wireshark" alt="Wireshark" width="60" height="60"/>
-  </a>
-  <a href="https://www.packettracer.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cisco/cisco-original.svg" title="Packet Tracer" alt="Packet Tracer" width="60" height="60"/>
-  </a>
+ 
 </div>
 
 <!-- Private Visitor Counter -->
