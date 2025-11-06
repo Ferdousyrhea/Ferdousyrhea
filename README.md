@@ -1,7 +1,7 @@
 <div align="left">
 
 <!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student;Future+Network+Engineer;Networking+%7C+Cybersecurity+Enthusiast&center=true&size=33" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student;Future+Network+Engineer;Networking+%7C+Cybersecurity+Enthusiast&center=true&size=13" alt="Typing SVG" />
 
 <h2>Hi there 👋, I'm Rezwoana Ferdousy</h2>
 
