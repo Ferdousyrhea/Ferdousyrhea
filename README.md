@@ -19,10 +19,14 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 🤔 I’m interested in Competitive Programming.
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/mrsohelcse/)
-- ⚡ Fun fact: I often play video games.
+
+🎓 CSE Student | 💻 Interested in Computer Networking, Cybersecurity & Distributed Systems  
+🔭 Currently learning: [e.g., CCNA basics, TCP/IP model, Subnetting]  
+🌱 I’m currently working on: [Networking labs, Packet Tracer projects, Bash scripting]  
+📌 Portfolio/Projects: [links to repositories]  
+💡 I share my learning through code, notes, and mini-projects  
+📫 Reach me: [email, LinkedIn, etc.]
+
 
 
 
