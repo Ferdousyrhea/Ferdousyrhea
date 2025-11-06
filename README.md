@@ -6,6 +6,24 @@
 <h2>Hi there 👋, I'm Rezwoana Ferdousy</h2>
 <p>🎓 CSE Student | Networking & Cybersecurity Enthusiast<br>
 🌐 Computer Networking Learner | CSE Undergraduate</p>
+🎓 **CSE Student** | 💻 Interested in **Computer Networking, Cybersecurity & Distributed Systems**  
+
+🔭 **Currently learning:**  
+- CCNA basics  
+- TCP/IP model  
+- Subnetting  
+
+🌱 **Currently working on:**  
+- Networking labs  
+- 🖧 Packet Tracer projects  
+- Bash scripting  
+
+💡 **Sharing my learning through:** code, notes, and mini-projects  
+
+📫 **Reach me:**  
+- LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)  
+- Email: [rezwoana.ferdousy.393@gmail.com](mailto:rezwoana.ferdousy.393@gmail.com)
+- GitHub: [github.com/Ferdousyrhea](https://github.com/Ferdousyrhea)
 
 <!-- LinkedIn & GitHub badges -->
 <div id="badges">
