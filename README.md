@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <!-- Animated Typing Banner -->
 <img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student;Future+Network+Engineer;Networking+%7C+Cybersecurity+Enthusiast&center=true&size=25" alt="Typing SVG" />
