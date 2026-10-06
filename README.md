@@ -23,7 +23,7 @@
 
 📫 Reach me: 
   
-- Email: [rezwoana.ferdousy.393@gmail.com](mailto:rezwoana.ferdousy.393@gmail.com)
+- Email: [rezwoanaferdousy333@gmail.com](mailto:rezwoanaferdousy333@gmail.com)
 
 
 <!-- LinkedIn & GitHub badges -->
